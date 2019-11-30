@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# pytorch models
+hiddenlayer/
+*.pth
+*.caffemodel
+.idea/
+.ipynb_checkpoints/
+__pycache__
+*.prototxt
